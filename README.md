@@ -34,7 +34,7 @@ Ready to take your digital presence to the next level? Let's connect and create 
 - LinkedIn: [Neutroin](https://www.linkedin.com/company/90799459/admin/)
 - Twitter: [@neutroin](https://twitter.com/neutroin)
 - Instagram [@neutroin](https://www.instagram.com/neutroin.official/)
-<p align="center">
+<p align="left">
   <img src="https://github.com/neutroin/neutroin/blob/main/neutroin.official_qr.png" alt="Neutroin Logo" width="200" height="200">
 </p>
 
